@@ -23,6 +23,15 @@
     
     <url>
     
+      <loc>/post/netlify%E6%90%AD%E5%BB%BAblog%E7%AC%94%E8%AE%B0/</loc>
+      <lastmod>2017-12-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/feynman-words/</loc>
       <lastmod>2017-10-31T00:00:00+08:00</lastmod>
     </url>
@@ -140,6 +149,14 @@
     
     <url>
     
+      <loc>/post/2017-12-29-netlify%E6%90%AD%E5%BB%BAblog%E7%AC%94%E8%AE%B0/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -201,6 +218,26 @@
     
       <loc>/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/notes/</loc>
+      <lastmod>2017-12-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/notes/</loc>
+      <lastmod>2017-12-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
